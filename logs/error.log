@@ -1,0 +1,265 @@
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+[Thu May 30 14:56:55.830345 2024] [mpm_winnt:notice] [pid 1324:tid 456] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Thu May 30 14:56:55.830345 2024] [mpm_winnt:notice] [pid 1324:tid 456] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 30 14:56:55.830345 2024] [core:notice] [pid 1324:tid 456] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu May 30 14:56:55.830345 2024] [mpm_winnt:notice] [pid 1324:tid 456] AH00418: Parent: Created child process 4044
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+[Thu May 30 14:56:56.127227 2024] [mpm_winnt:notice] [pid 4044:tid 472] AH00354: Child: Starting 64 worker threads.
+[Thu May 30 16:43:11.097263 2024] [mpm_winnt:notice] [pid 1324:tid 456] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 30 16:43:13.112800 2024] [mpm_winnt:notice] [pid 4044:tid 472] AH00364: Child: All worker threads have exited.
+[Thu May 30 16:43:13.128368 2024] [mpm_winnt:notice] [pid 1324:tid 456] AH00430: Parent: Child process 4044 exited successfully.
+[Thu May 30 16:43:14.034411 2024] [authnz_ldap:error] [pid 5052:tid 448] AH01749: Module mod_ldap missing. Mod_ldap (aka. util_ldap) must be loaded in order for mod_authnz_ldap to function properly
+AH00016: Configuration Failed
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+[Thu May 30 16:44:17.940610 2024] [mpm_winnt:notice] [pid 6004:tid 460] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Thu May 30 16:44:17.940610 2024] [mpm_winnt:notice] [pid 6004:tid 460] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 30 16:44:17.940610 2024] [core:notice] [pid 6004:tid 460] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu May 30 16:44:17.940610 2024] [mpm_winnt:notice] [pid 6004:tid 460] AH00418: Parent: Created child process 1772
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+[Thu May 30 16:44:18.221872 2024] [mpm_winnt:notice] [pid 1772:tid 508] AH00354: Child: Starting 64 worker threads.
+[Thu May 30 16:56:28.159124 2024] [mpm_winnt:notice] [pid 6004:tid 460] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 30 16:56:30.175049 2024] [mpm_winnt:notice] [pid 1772:tid 508] AH00364: Child: All worker threads have exited.
+[Thu May 30 16:56:30.190680 2024] [mpm_winnt:notice] [pid 6004:tid 460] AH00430: Parent: Child process 1772 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+[Thu May 30 17:01:00.580920 2024] [mpm_winnt:notice] [pid 880:tid 448] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Thu May 30 17:01:00.580920 2024] [mpm_winnt:notice] [pid 880:tid 448] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 30 17:01:00.580920 2024] [core:notice] [pid 880:tid 448] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu May 30 17:01:00.580920 2024] [mpm_winnt:notice] [pid 880:tid 448] AH00418: Parent: Created child process 476
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+[Thu May 30 17:01:00.846523 2024] [mpm_winnt:notice] [pid 476:tid 464] AH00354: Child: Starting 64 worker threads.
+[Thu May 30 17:03:56.877712 2024] [mpm_winnt:notice] [pid 880:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 30 17:03:58.909010 2024] [mpm_winnt:notice] [pid 476:tid 464] AH00364: Child: All worker threads have exited.
+[Thu May 30 17:03:58.924784 2024] [mpm_winnt:notice] [pid 880:tid 448] AH00430: Parent: Child process 476 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+[Thu May 30 17:12:14.764586 2024] [mpm_winnt:notice] [pid 4108:tid 484] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Thu May 30 17:12:14.764586 2024] [mpm_winnt:notice] [pid 4108:tid 484] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 30 17:12:14.764586 2024] [core:notice] [pid 4108:tid 484] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu May 30 17:12:14.764586 2024] [mpm_winnt:notice] [pid 4108:tid 484] AH00418: Parent: Created child process 4780
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+[Thu May 30 17:12:15.045838 2024] [mpm_winnt:notice] [pid 4780:tid 476] AH00354: Child: Starting 64 worker threads.
+[Thu May 30 17:15:20.358261 2024] [mpm_winnt:notice] [pid 4108:tid 484] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 30 17:15:22.389633 2024] [mpm_winnt:notice] [pid 4780:tid 476] AH00364: Child: All worker threads have exited.
+[Thu May 30 17:15:22.405158 2024] [mpm_winnt:notice] [pid 4108:tid 484] AH00430: Parent: Child process 4780 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+[Thu May 30 17:20:59.701950 2024] [mpm_winnt:notice] [pid 2276:tid 480] AH00455: Apache/2.4.59 (Win64) PHP/8.2.19 configured -- resuming normal operations
+[Thu May 30 17:20:59.701950 2024] [mpm_winnt:notice] [pid 2276:tid 480] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 30 17:20:59.701950 2024] [core:notice] [pid 2276:tid 480] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu May 30 17:20:59.701950 2024] [mpm_winnt:notice] [pid 2276:tid 480] AH00418: Parent: Created child process 4488
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+[Thu May 30 17:20:59.983141 2024] [mpm_winnt:notice] [pid 4488:tid 476] AH00354: Child: Starting 64 worker threads.
+[Thu May 30 17:24:32.295353 2024] [mpm_winnt:notice] [pid 2276:tid 480] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 30 17:24:34.326796 2024] [mpm_winnt:notice] [pid 4488:tid 476] AH00364: Child: All worker threads have exited.
+[Thu May 30 17:24:34.342294 2024] [mpm_winnt:notice] [pid 2276:tid 480] AH00430: Parent: Child process 4488 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+[Thu May 30 17:24:35.139104 2024] [mpm_winnt:notice] [pid 412:tid 448] AH00455: Apache/2.4.59 (Win64) PHP/8.2.19 configured -- resuming normal operations
+[Thu May 30 17:24:35.139104 2024] [mpm_winnt:notice] [pid 412:tid 448] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 30 17:24:35.139104 2024] [core:notice] [pid 412:tid 448] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu May 30 17:24:35.154739 2024] [mpm_winnt:notice] [pid 412:tid 448] AH00418: Parent: Created child process 2816
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+[Thu May 30 17:24:35.451612 2024] [mpm_winnt:notice] [pid 2816:tid 504] AH00354: Child: Starting 64 worker threads.
+[Thu May 30 17:29:34.919978 2024] [mpm_winnt:notice] [pid 412:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 30 17:30:04.919999 2024] [mpm_winnt:notice] [pid 412:tid 448] AH00431: Parent: Forcing termination of child process 2816
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+[Thu May 30 17:30:05.373098 2024] [mpm_winnt:notice] [pid 144:tid 484] AH00455: Apache/2.4.59 (Win64) PHP/8.2.19 configured -- resuming normal operations
+[Thu May 30 17:30:05.373098 2024] [mpm_winnt:notice] [pid 144:tid 484] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 30 17:30:05.373098 2024] [core:notice] [pid 144:tid 484] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu May 30 17:30:05.373098 2024] [mpm_winnt:notice] [pid 144:tid 484] AH00418: Parent: Created child process 4628
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+[Thu May 30 17:30:05.685592 2024] [mpm_winnt:notice] [pid 4628:tid 520] AH00354: Child: Starting 64 worker threads.
+[Thu May 30 17:34:10.232569 2024] [mpm_winnt:notice] [pid 144:tid 484] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 30 17:34:12.263840 2024] [mpm_winnt:notice] [pid 4628:tid 520] AH00364: Child: All worker threads have exited.
+[Thu May 30 17:34:12.279336 2024] [mpm_winnt:notice] [pid 144:tid 484] AH00430: Parent: Child process 4628 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+[Thu May 30 17:34:13.091650 2024] [mpm_winnt:notice] [pid 1580:tid 476] AH00455: Apache/2.4.59 (Win64) PHP/8.2.19 configured -- resuming normal operations
+[Thu May 30 17:34:13.091650 2024] [mpm_winnt:notice] [pid 1580:tid 476] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 30 17:34:13.091650 2024] [core:notice] [pid 1580:tid 476] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu May 30 17:34:13.091650 2024] [mpm_winnt:notice] [pid 1580:tid 476] AH00418: Parent: Created child process 4288
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+[Thu May 30 17:34:13.388592 2024] [mpm_winnt:notice] [pid 4288:tid 464] AH00354: Child: Starting 64 worker threads.
+[Thu May 30 17:41:27.591900 2024] [mpm_winnt:notice] [pid 1580:tid 476] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 30 17:41:29.607789 2024] [mpm_winnt:notice] [pid 4288:tid 464] AH00364: Child: All worker threads have exited.
+[Thu May 30 17:41:29.623449 2024] [mpm_winnt:notice] [pid 1580:tid 476] AH00430: Parent: Child process 4288 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ldap' (tried: C:\\php\\ext\\ldap (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\php\\ext\\php_ldap.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Thu May 30 17:41:30.435659 2024] [mpm_winnt:notice] [pid 364:tid 448] AH00455: Apache/2.4.59 (Win64) PHP/8.2.19 configured -- resuming normal operations
+[Thu May 30 17:41:30.435659 2024] [mpm_winnt:notice] [pid 364:tid 448] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 30 17:41:30.435659 2024] [core:notice] [pid 364:tid 448] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu May 30 17:41:30.435659 2024] [mpm_winnt:notice] [pid 364:tid 448] AH00418: Parent: Created child process 6112
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ldap' (tried: C:\\php\\ext\\ldap (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\php\\ext\\php_ldap.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Thu May 30 17:41:30.732517 2024] [mpm_winnt:notice] [pid 6112:tid 516] AH00354: Child: Starting 64 worker threads.
+[Thu May 30 17:42:34.592044 2024] [mpm_winnt:notice] [pid 364:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 30 17:42:38.373357 2024] [mpm_winnt:notice] [pid 6112:tid 516] AH00364: Child: All worker threads have exited.
+[Thu May 30 17:42:38.389176 2024] [mpm_winnt:notice] [pid 364:tid 448] AH00430: Parent: Child process 6112 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ldap' (tried: C:\\php\\ext\\ldap (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\php\\ext\\php_ldap.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: C:\\php\\ext\\curl (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\php\\ext\\php_curl.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Thu May 30 17:42:39.107707 2024] [mpm_winnt:notice] [pid 2412:tid 488] AH00455: Apache/2.4.59 (Win64) PHP/8.2.19 configured -- resuming normal operations
+[Thu May 30 17:42:39.107707 2024] [mpm_winnt:notice] [pid 2412:tid 488] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 30 17:42:39.107707 2024] [core:notice] [pid 2412:tid 488] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu May 30 17:42:39.107707 2024] [mpm_winnt:notice] [pid 2412:tid 488] AH00418: Parent: Created child process 4944
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ldap' (tried: C:\\php\\ext\\ldap (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\php\\ext\\php_ldap.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: C:\\php\\ext\\curl (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\php\\ext\\php_curl.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Thu May 30 17:42:39.404584 2024] [mpm_winnt:notice] [pid 4944:tid 492] AH00354: Child: Starting 64 worker threads.
+[Fri May 31 11:19:38.016538 2024] [mpm_winnt:notice] [pid 2412:tid 488] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri May 31 11:20:08.016785 2024] [mpm_winnt:notice] [pid 2412:tid 488] AH00431: Parent: Forcing termination of child process 4944
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ldap' (tried: C:\\php\\ext\\ldap (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\php\\ext\\php_ldap.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: C:\\php\\ext\\curl (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\php\\ext\\php_curl.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Fri May 31 11:20:08.594619 2024] [mpm_winnt:notice] [pid 6028:tid 500] AH00455: Apache/2.4.59 (Win64) PHP/8.2.19 configured -- resuming normal operations
+[Fri May 31 11:20:08.594619 2024] [mpm_winnt:notice] [pid 6028:tid 500] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Fri May 31 11:20:08.594619 2024] [core:notice] [pid 6028:tid 500] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri May 31 11:20:08.594619 2024] [mpm_winnt:notice] [pid 6028:tid 500] AH00418: Parent: Created child process 2256
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ldap' (tried: C:\\php\\ext\\ldap (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\php\\ext\\php_ldap.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: C:\\php\\ext\\curl (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\php\\ext\\php_curl.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Fri May 31 11:20:08.891495 2024] [mpm_winnt:notice] [pid 2256:tid 512] AH00354: Child: Starting 64 worker threads.
+[Fri May 31 11:21:57.766569 2024] [mpm_winnt:notice] [pid 6028:tid 500] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri May 31 11:21:59.797877 2024] [mpm_winnt:notice] [pid 2256:tid 512] AH00364: Child: All worker threads have exited.
+[Fri May 31 11:21:59.813532 2024] [mpm_winnt:notice] [pid 6028:tid 500] AH00430: Parent: Child process 2256 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ldap' (tried: C:\\php\\ext\\ldap (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\php\\ext\\php_ldap.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: C:\\php\\ext\\curl (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\php\\ext\\php_curl.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Fri May 31 11:22:00.610245 2024] [mpm_winnt:notice] [pid 100:tid 448] AH00455: Apache/2.4.59 (Win64) PHP/8.2.19 configured -- resuming normal operations
+[Fri May 31 11:22:00.610245 2024] [mpm_winnt:notice] [pid 100:tid 448] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Fri May 31 11:22:00.610245 2024] [core:notice] [pid 100:tid 448] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri May 31 11:22:00.610245 2024] [mpm_winnt:notice] [pid 100:tid 448] AH00418: Parent: Created child process 544
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ldap' (tried: C:\\php\\ext\\ldap (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\php\\ext\\php_ldap.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: C:\\php\\ext\\curl (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\php\\ext\\php_curl.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Fri May 31 11:22:00.907136 2024] [mpm_winnt:notice] [pid 544:tid 500] AH00354: Child: Starting 64 worker threads.
+[Fri May 31 11:26:40.704005 2024] [mpm_winnt:notice] [pid 100:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri May 31 11:27:10.704044 2024] [mpm_winnt:notice] [pid 100:tid 448] AH00431: Parent: Forcing termination of child process 544
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ldap' (tried: C:\\php\\ext\\ldap (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\php\\ext\\php_ldap.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: C:\\php\\ext\\curl (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\php\\ext\\php_curl.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Fri May 31 11:27:11.172760 2024] [mpm_winnt:notice] [pid 5776:tid 496] AH00455: Apache/2.4.59 (Win64) PHP/8.2.19 configured -- resuming normal operations
+[Fri May 31 11:27:11.172760 2024] [mpm_winnt:notice] [pid 5776:tid 496] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Fri May 31 11:27:11.172760 2024] [core:notice] [pid 5776:tid 496] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri May 31 11:27:11.188464 2024] [mpm_winnt:notice] [pid 5776:tid 496] AH00418: Parent: Created child process 336
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ldap' (tried: C:\\php\\ext\\ldap (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\php\\ext\\php_ldap.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: C:\\php\\ext\\curl (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\php\\ext\\php_curl.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Fri May 31 11:27:11.485273 2024] [mpm_winnt:notice] [pid 336:tid 504] AH00354: Child: Starting 64 worker threads.
+[Fri May 31 12:03:33.955697 2024] [mpm_winnt:notice] [pid 5776:tid 496] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri May 31 12:03:35.986788 2024] [mpm_winnt:notice] [pid 336:tid 504] AH00364: Child: All worker threads have exited.
+[Fri May 31 12:03:36.002620 2024] [mpm_winnt:notice] [pid 5776:tid 496] AH00430: Parent: Child process 336 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ldap' (tried: C:\\php\\ext\\ldap (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\php\\ext\\php_ldap.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: C:\\php\\ext\\curl (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\php\\ext\\php_curl.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Fri May 31 12:03:59.227323 2024] [mpm_winnt:notice] [pid 3024:tid 448] AH00455: Apache/2.4.59 (Win64) PHP/8.2.19 configured -- resuming normal operations
+[Fri May 31 12:03:59.227323 2024] [mpm_winnt:notice] [pid 3024:tid 448] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Fri May 31 12:03:59.227323 2024] [core:notice] [pid 3024:tid 448] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri May 31 12:03:59.227323 2024] [mpm_winnt:notice] [pid 3024:tid 448] AH00418: Parent: Created child process 4108
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fde2:53db:6883:af6a. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ldap' (tried: C:\\php\\ext\\ldap (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\php\\ext\\php_ldap.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: C:\\php\\ext\\curl (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\php\\ext\\php_curl.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Fri May 31 12:03:59.586705 2024] [mpm_winnt:notice] [pid 4108:tid 464] AH00354: Child: Starting 64 worker threads.
+[Fri May 31 12:05:19.658947 2024] [mpm_winnt:notice] [pid 3024:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri May 31 12:05:44.149582 2024] [core:warn] [pid 3056:tid 504] AH00098: pid file C:/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ldap' (tried: C:\\php\\ext\\ldap (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\php\\ext\\php_ldap.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: C:\\php\\ext\\curl (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\php\\ext\\php_curl.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Fri May 31 12:05:46.149671 2024] [mpm_winnt:notice] [pid 3056:tid 504] AH00455: Apache/2.4.59 (Win64) PHP/8.2.19 configured -- resuming normal operations
+[Fri May 31 12:05:46.149671 2024] [mpm_winnt:notice] [pid 3056:tid 504] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Fri May 31 12:05:46.149671 2024] [core:notice] [pid 3056:tid 504] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri May 31 12:05:46.149671 2024] [mpm_winnt:notice] [pid 3056:tid 504] AH00418: Parent: Created child process 4152
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ldap' (tried: C:\\php\\ext\\ldap (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\php\\ext\\php_ldap.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: C:\\php\\ext\\curl (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\php\\ext\\php_curl.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Fri May 31 12:05:46.524521 2024] [mpm_winnt:notice] [pid 4152:tid 464] AH00354: Child: Starting 64 worker threads.
+[Fri May 31 12:11:42.136111 2024] [php:error] [pid 4152:tid 1244] [client 10.101.13.101:63448] PHP Fatal error:  Uncaught Error: Call to undefined function ldap_connect() in C:\\Apache24\\htdocs\\class\\conexion.php:17\nStack trace:\n#0 C:\\Apache24\\htdocs\\pages\\validar.php(28): Conexion->__construct()\n#1 {main}\n  thrown in C:\\Apache24\\htdocs\\class\\conexion.php on line 17
+[Fri May 31 12:11:49.854623 2024] [php:error] [pid 4152:tid 1248] [client 10.101.13.101:63452] PHP Fatal error:  Uncaught Error: Call to undefined function ldap_connect() in C:\\Apache24\\htdocs\\class\\conexion.php:17\nStack trace:\n#0 C:\\Apache24\\htdocs\\pages\\validar.php(28): Conexion->__construct()\n#1 {main}\n  thrown in C:\\Apache24\\htdocs\\class\\conexion.php on line 17, referer: http://10.101.183.38/
+[Fri May 31 12:12:50.651305 2024] [php:error] [pid 4152:tid 1244] [client 10.101.13.101:63504] PHP Fatal error:  Uncaught Error: Call to undefined function ldap_connect() in C:\\Apache24\\htdocs\\class\\conexion.php:17\nStack trace:\n#0 C:\\Apache24\\htdocs\\pages\\validar.php(28): Conexion->__construct()\n#1 {main}\n  thrown in C:\\Apache24\\htdocs\\class\\conexion.php on line 17, referer: http://10.101.183.38/
+[Fri May 31 12:26:16.065906 2024] [mpm_winnt:notice] [pid 3056:tid 504] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri May 31 12:26:18.097197 2024] [mpm_winnt:notice] [pid 4152:tid 464] AH00364: Child: All worker threads have exited.
+[Fri May 31 12:26:18.128339 2024] [mpm_winnt:notice] [pid 3056:tid 504] AH00430: Parent: Child process 4152 exited successfully.
+[Fri May 31 12:26:20.081685 2024] [mpm_winnt:notice] [pid 1988:tid 492] AH00455: Apache/2.4.59 (Win64) PHP/8.2.19 configured -- resuming normal operations
+[Fri May 31 12:26:20.081685 2024] [mpm_winnt:notice] [pid 1988:tid 492] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Fri May 31 12:26:20.081685 2024] [core:notice] [pid 1988:tid 492] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri May 31 12:26:20.112717 2024] [mpm_winnt:notice] [pid 1988:tid 492] AH00418: Parent: Created child process 6480
+[Fri May 31 12:26:20.472051 2024] [mpm_winnt:notice] [pid 6480:tid 464] AH00354: Child: Starting 64 worker threads.
+[Tue Jun 11 15:00:59.733203 2024] [php:error] [pid 6480:tid 1292] [client 10.101.13.101:60072] script 'C:/Apache24/htdocs/phpinfo.php' not found or unable to stat
+[Fri Aug 02 00:37:18.429477 2024] [mpm_winnt:notice] [pid 1988:tid 492] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Aug 02 00:37:20.537965 2024] [mpm_winnt:notice] [pid 6480:tid 464] AH00364: Child: All worker threads have exited.
+[Fri Aug 02 00:37:21.115986 2024] [mpm_winnt:notice] [pid 1988:tid 492] AH00430: Parent: Child process 6480 exited successfully.
+[Thu Aug 22 14:36:03.050974 2024] [mpm_winnt:notice] [pid 2280:tid 456] AH00455: Apache/2.4.59 (Win64) PHP/8.2.19 configured -- resuming normal operations
+[Thu Aug 22 14:36:03.066607 2024] [mpm_winnt:notice] [pid 2280:tid 456] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu Aug 22 14:36:03.066607 2024] [core:notice] [pid 2280:tid 456] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Aug 22 14:36:03.066607 2024] [mpm_winnt:notice] [pid 2280:tid 456] AH00418: Parent: Created child process 4556
+[Thu Aug 22 14:36:03.566616 2024] [mpm_winnt:notice] [pid 4556:tid 520] AH00354: Child: Starting 64 worker threads.
+[Thu Sep 12 17:43:01.720520 2024] [php:error] [pid 4556:tid 1312] [client ::1:49805] script 'C:/Apache24/htdocs/notificacionSolicitud.php' not found or unable to stat
+[Wed Sep 18 21:58:13.891840 2024] [mpm_winnt:notice] [pid 2280:tid 456] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 18 21:58:15.909051 2024] [mpm_winnt:notice] [pid 4556:tid 520] AH00364: Child: All worker threads have exited.
+[Wed Sep 18 21:58:16.018362 2024] [mpm_winnt:notice] [pid 2280:tid 456] AH00430: Parent: Child process 4556 exited successfully.
+[Mon Sep 23 15:26:54.503663 2024] [mpm_winnt:notice] [pid 3460:tid 468] AH00455: Apache/2.4.59 (Win64) PHP/8.2.19 configured -- resuming normal operations
+[Mon Sep 23 15:26:54.519283 2024] [mpm_winnt:notice] [pid 3460:tid 468] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Mon Sep 23 15:26:54.519283 2024] [core:notice] [pid 3460:tid 468] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Sep 23 15:26:54.534942 2024] [mpm_winnt:notice] [pid 3460:tid 468] AH00418: Parent: Created child process 4568
+[Mon Sep 23 15:26:54.831837 2024] [mpm_winnt:notice] [pid 4568:tid 504] AH00354: Child: Starting 64 worker threads.
+[Wed Oct 02 10:21:43.796262 2024] [mpm_winnt:notice] [pid 3460:tid 468] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Oct 02 10:21:45.808680 2024] [mpm_winnt:notice] [pid 4568:tid 504] AH00364: Child: All worker threads have exited.
+[Wed Oct 02 10:21:45.918108 2024] [mpm_winnt:notice] [pid 3460:tid 468] AH00430: Parent: Child process 4568 exited successfully.
+[Mon Oct 07 18:23:01.895118 2024] [mpm_winnt:notice] [pid 3412:tid 468] AH00455: Apache/2.4.59 (Win64) PHP/8.2.19 configured -- resuming normal operations
+[Mon Oct 07 18:23:01.911010 2024] [mpm_winnt:notice] [pid 3412:tid 468] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Mon Oct 07 18:23:01.911010 2024] [core:notice] [pid 3412:tid 468] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 07 18:23:01.911010 2024] [mpm_winnt:notice] [pid 3412:tid 468] AH00418: Parent: Created child process 4388
+[Mon Oct 07 18:23:02.238892 2024] [mpm_winnt:notice] [pid 4388:tid 464] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 24 08:11:43.024286 2024] [mpm_winnt:notice] [pid 3412:tid 468] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 24 08:11:45.055115 2024] [mpm_winnt:notice] [pid 4388:tid 464] AH00364: Child: All worker threads have exited.
+[Thu Oct 24 08:11:45.117614 2024] [mpm_winnt:notice] [pid 3412:tid 468] AH00430: Parent: Child process 4388 exited successfully.
+[Mon Nov 18 17:01:28.888295 2024] [mpm_winnt:notice] [pid 3652:tid 480] AH00455: Apache/2.4.59 (Win64) PHP/8.2.19 configured -- resuming normal operations
+[Mon Nov 18 17:01:28.903935 2024] [mpm_winnt:notice] [pid 3652:tid 480] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Mon Nov 18 17:01:28.903935 2024] [core:notice] [pid 3652:tid 480] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Nov 18 17:01:28.903935 2024] [mpm_winnt:notice] [pid 3652:tid 480] AH00418: Parent: Created child process 4560
+[Mon Nov 18 17:01:29.233276 2024] [mpm_winnt:notice] [pid 4560:tid 524] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 25 15:07:23.081634 2024] [mpm_winnt:notice] [pid 3652:tid 480] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 25 15:07:25.128594 2024] [mpm_winnt:notice] [pid 4560:tid 524] AH00364: Child: All worker threads have exited.
+[Mon Nov 25 15:07:25.191001 2024] [mpm_winnt:notice] [pid 3652:tid 480] AH00430: Parent: Child process 4560 exited successfully.
+[Wed Nov 12 14:39:43.888040 2025] [mpm_winnt:notice] [pid 3520:tid 448] AH00455: Apache/2.4.59 (Win64) PHP/8.2.19 configured -- resuming normal operations
+[Wed Nov 12 14:39:43.903735 2025] [mpm_winnt:notice] [pid 3520:tid 448] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Wed Nov 12 14:39:43.903735 2025] [core:notice] [pid 3520:tid 448] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Wed Nov 12 14:39:43.903735 2025] [mpm_winnt:notice] [pid 3520:tid 448] AH00418: Parent: Created child process 4448
+[Wed Nov 12 14:39:44.372461 2025] [mpm_winnt:notice] [pid 4448:tid 492] AH00354: Child: Starting 64 worker threads.
+[Wed Dec 10 23:34:35.054947 2025] [core:warn] [pid 3160:tid 468] AH00098: pid file C:/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 10 23:34:35.305043 2025] [mpm_winnt:notice] [pid 3160:tid 468] AH00455: Apache/2.4.59 (Win64) PHP/8.2.19 configured -- resuming normal operations
+[Wed Dec 10 23:34:35.305043 2025] [mpm_winnt:notice] [pid 3160:tid 468] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Wed Dec 10 23:34:35.305043 2025] [core:notice] [pid 3160:tid 468] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Wed Dec 10 23:34:35.305043 2025] [mpm_winnt:notice] [pid 3160:tid 468] AH00418: Parent: Created child process 4468
+[Wed Dec 10 23:34:35.664328 2025] [mpm_winnt:notice] [pid 4468:tid 464] AH00354: Child: Starting 64 worker threads.
+[Wed Dec 10 18:37:08.633454 2025] [mpm_winnt:notice] [pid 3160:tid 468] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Dec 10 18:37:10.664214 2025] [mpm_winnt:notice] [pid 4468:tid 464] AH00364: Child: All worker threads have exited.
+[Wed Dec 10 18:37:10.679837 2025] [mpm_winnt:notice] [pid 3160:tid 468] AH00430: Parent: Child process 4468 exited successfully.
+[Wed Jan 21 20:21:07.460021 2026] [mpm_winnt:notice] [pid 3044:tid 460] AH00455: Apache/2.4.59 (Win64) PHP/8.2.19 configured -- resuming normal operations
+[Wed Jan 21 20:21:07.460021 2026] [mpm_winnt:notice] [pid 3044:tid 460] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Wed Jan 21 20:21:07.460021 2026] [core:notice] [pid 3044:tid 460] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Wed Jan 21 20:21:07.460021 2026] [mpm_winnt:notice] [pid 3044:tid 460] AH00418: Parent: Created child process 4432
+[Wed Jan 21 20:21:07.756909 2026] [mpm_winnt:notice] [pid 4432:tid 464] AH00354: Child: Starting 64 worker threads.
+[Wed Jan 21 20:24:02.119717 2026] [mpm_winnt:notice] [pid 3044:tid 460] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jan 21 20:24:04.150964 2026] [mpm_winnt:notice] [pid 4432:tid 464] AH00364: Child: All worker threads have exited.
+[Wed Jan 21 20:24:04.166586 2026] [mpm_winnt:notice] [pid 3044:tid 460] AH00430: Parent: Child process 4432 exited successfully.
+[Tue Feb 03 20:11:37.715820 2026] [mpm_winnt:notice] [pid 3032:tid 452] AH00455: Apache/2.4.59 (Win64) PHP/8.2.19 configured -- resuming normal operations
+[Tue Feb 03 20:11:37.715820 2026] [mpm_winnt:notice] [pid 3032:tid 452] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Tue Feb 03 20:11:37.715820 2026] [core:notice] [pid 3032:tid 452] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Feb 03 20:11:37.715820 2026] [mpm_winnt:notice] [pid 3032:tid 452] AH00418: Parent: Created child process 4488
+[Tue Feb 03 20:11:37.997035 2026] [mpm_winnt:notice] [pid 4488:tid 464] AH00354: Child: Starting 64 worker threads.
+[Mon Feb 09 12:59:46.487775 2026] [core:warn] [pid 2884:tid 484] AH00098: pid file C:/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 09 12:59:46.722188 2026] [mpm_winnt:notice] [pid 2884:tid 484] AH00455: Apache/2.4.59 (Win64) PHP/8.2.19 configured -- resuming normal operations
+[Mon Feb 09 12:59:46.722188 2026] [mpm_winnt:notice] [pid 2884:tid 484] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Mon Feb 09 12:59:46.722188 2026] [core:notice] [pid 2884:tid 484] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Feb 09 12:59:46.722188 2026] [mpm_winnt:notice] [pid 2884:tid 484] AH00418: Parent: Created child process 4448
+[Mon Feb 09 12:59:47.440880 2026] [mpm_winnt:notice] [pid 4448:tid 476] AH00354: Child: Starting 64 worker threads.
+[Mon Feb 23 15:12:40.747511 2026] [php:error] [pid 4448:tid 1280] [client 10.101.13.163:54764] script 'C:/Apache24/htdocs/pages/validad.php' not found or unable to stat, referer: http://10.101.183.40/pages/validar.php

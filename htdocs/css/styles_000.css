@@ -1,0 +1,227 @@
+@charset "utf-8";
+/* CSS Document */
+
+.css_tbl_marco_cabecera {
+    margin-top: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    height: 130px;
+    border-top: 20px solid #2AD3FF;
+    border-left: 20px solid #2AD3FF;
+}
+.css_tbl_marco {
+    margin-top: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    height: 130px;
+}
+.css_tbl_marco_2 {
+    margin-top: 3%;
+    margin-right: 5%;
+    margin-bottom: 3%;
+    margin-left: 5%;
+}
+.css_tbl_marco_pie {
+    margin-top: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    height: 130px;
+    border-bottom: 20px solid #001B72;
+    border-right: 20px solid #001B72;
+}
+.css_tbl_login {
+    color: #000000;
+    border: thin solid #000000;
+    -webkit-box-shadow: 10px 10px 7px #706D6D;
+    box-shadow: 10px 10px 7px #706D6D;
+    background-color: #FFFFFF;
+}
+.css_lbl_Usuario {
+    color: #000000;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: small;
+}
+.css_tbx_general {
+    border: thin solid #000000;
+    background-image: -webkit-linear-gradient(270deg,rgba(117,160,249,1.00) 0%,rgba(255,255,255,1.00) 19.69%);
+    background-image: -moz-linear-gradient(270deg,rgba(117,160,249,1.00) 0%,rgba(255,255,255,1.00) 19.69%);
+    background-image: -o-linear-gradient(270deg,rgba(117,160,249,1.00) 0%,rgba(255,255,255,1.00) 19.69%);
+    background-image: linear-gradient(180deg,rgba(117,160,249,1.00) 0%,rgba(255,255,255,1.00) 19.69%);
+    color: #000000;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: small;
+    width: 175px;
+}
+.css_tbx_general_2 {
+    border: thin solid #000000;
+    background-image: -webkit-linear-gradient(270deg,rgba(117,160,249,1.00) 0%,rgba(255,255,255,1.00) 19.69%);
+    background-image: -moz-linear-gradient(270deg,rgba(117,160,249,1.00) 0%,rgba(255,255,255,1.00) 19.69%);
+    background-image: -o-linear-gradient(270deg,rgba(117,160,249,1.00) 0%,rgba(255,255,255,1.00) 19.69%);
+    background-image: linear-gradient(180deg,rgba(117,160,249,1.00) 0%,rgba(255,255,255,1.00) 19.69%);
+    color: #000000;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: small;
+    width: 50px;
+}
+.css_btn_Inicio {
+    color: #020202;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: normal;
+    font-size: small;
+    border: thin solid #0B0B0B;
+    font-weight: bold;
+    background-color: #F7585B;
+}
+.row {
+    text-align: right;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: small;
+}
+.row_2 {
+    text-align: left;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: x-small;
+}
+.factura {
+    text-align: center;
+}
+.css_cab_factura {
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-weight: bold;
+    font-size: large;
+    background-color: #5C008C;
+}
+.css_cab_factura_2 {
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-weight: bold;
+    font-size: x-small;
+    background-color: #5C008C;
+}
+.css_cbx_1 {
+    border-right: thin solid #000000;
+    color: #000000;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: small;
+    width: 180px;
+}
+
+.css_tbl_bordeFact_1 {
+    border: thin solid #000000;
+}
+.css_tbl_bordeFact_2 {
+    border: thin solid #000000;
+    color: #000000;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: medium;
+}
+.css_tbl_bordeFact_3 {
+    border: thin solid #000000;
+    color: #000000;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: x-small;
+}
+.css_lbl_Total {
+    color: #000000;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: normal;
+    text-align: right;
+    font-size: large;
+    font-weight: bold;
+}
+.css_lbl_Total_2 {
+    color: #000000;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: normal;
+    text-align: right;
+    font-size: small;
+    font-weight: bold;
+}
+.css_lbl_Suministros {
+    color: #000000;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: xx-large;
+    text-align: center;
+}
+.css_lbl_welcome {
+    color: #000000;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: medium;
+}
+.css_lbl_welcome_2 {
+    color: #000000;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: small;
+}
+.css_btn_Eliminar {
+    border-style: solid;
+    border-width: thin;
+    background-color: #F300AD;
+    width: 20px;
+    color: #000000;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: x-small;
+    text-align: left;
+}
+.css_valorTotal_1 {
+    color: #002DA8;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    text-align: right;
+    font-size: x-large;
+}
+.css_valorTotal_2 {
+    color: #FF0206;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    text-align: right;
+    font-size: x-large;
+}
+.css_btn_Pedido {
+    border: thin solid #000000;
+    background-color: #2BF1F4;
+}
+.css_btn_Salir {
+    border: thin solid #000000;
+    background-color: #F300AD;
+}
+.css_tbl_marco_pie_2 {
+    height: 40px;
+    border-bottom: 20px solid #001B72;
+}
+.css_tbl_marco_cabecera_2 {
+	margin-top: 2%;
+    height: 20px;
+    border-top: 20px solid #001B72;
+}
+.css_lbl_mensajes {
+    color: #FF1C1F;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: small;
+}
